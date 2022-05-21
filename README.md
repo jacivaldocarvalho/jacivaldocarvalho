@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Jacivaldo ... Seja bem vindo! 👋 </h1>
+<h1 align="center"> Olá, Seja bem vindo! 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/jacivaldocarvalho">
