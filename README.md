@@ -27,11 +27,11 @@
   
  </div>
  
- ##
  
+ <!--
  ![Snake animation](https://github.com/jacivaldocarvalho/jacivaldocarvalho/blob/output/github-contribution-grid-snake.svg)
  
-<!--
+
 **jacivaldocarvalho/jacivaldocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
