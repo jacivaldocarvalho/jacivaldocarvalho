@@ -7,7 +7,7 @@
 </div>
   
 ## Sobre
-Sou o Jacivaldo, mas pode me chamar de Júnior. Adoro desafios, pois me proporcionam o meu  crescimento profissional e humano. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que uso como laboratório para manutenção e melhorias nos códigos das tecnologias que venho me aprimorando.
+Sou o Jacivaldo, mas podem me chamar de Júnior. Adoro desafios, pois me proporcionam o meu  crescimento profissional e humano. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que uso como laboratório para manutenção e melhorias nos códigos das tecnologias que venho me aprimorando.
 
 ## Hard Skills
 ### Dev
