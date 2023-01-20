@@ -1,10 +1,11 @@
 <h1 align="center"> Olá, Seja bem vindo! 👋 </h1>
 
+<!--  
 <div align="center">
   <a href="https://github.com/jacivaldocarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacivaldocarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"/>
-</div>
+</div> -->
   
 ## Sobre
 Sou o Jacivaldo, mas podem me chamar de Júnior. Adoro desafios, pois me proporcionam o meu  crescimento profissional e humano. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que uso como laboratório para manutenção e melhorias nos códigos das tecnologias que venho me aprimorando.
