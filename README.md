@@ -11,7 +11,7 @@
 Sou o Jacivaldo, mas podem me chamar de Júnior. Adoro desafios, pois me proporcionam o meu  crescimento profissional e humano. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho me aprimorando.
 
 ## Hard Skills
-### Dev
+### Devenvolvimento
 <div style="display: inline_block"><br>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
@@ -21,11 +21,13 @@ Sou o Jacivaldo, mas podem me chamar de Júnior. Adoro desafios, pois me proporc
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
- ### Infra
+ ### Infra/Devops
  <div style="display: inline_block"<><br>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />      
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />    
             
  </div>
