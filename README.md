@@ -1,4 +1,5 @@
 <h1 align="center"> Olá, Seja bem vindo! 👋 </h1>
+<h1 align="center"> Hi, welcome! 👋 </h1>
 
 
 <div align="center">
