@@ -1,5 +1,4 @@
 <h1 align="center"> Olá, Seja bem vindo! 👋 </h1>
-<h1 align="center"> Hi, welcome! 👋 </h1>
 
 
 <div align="center">
@@ -9,7 +8,7 @@
 </div>
   
 ## Sobre
-Olá, sou o Juninho Carvalho. Adoro desafios, pois me proporcionam o meu  crescimento profissional e humano. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
+Olá, sou o Juninho Carvalho. Adoro desafios, pois me proporcionam o meu  crescimento profissional. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
   
 ## Hard Skills
 
