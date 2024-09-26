@@ -8,9 +8,24 @@
 </div>
   
 ## Sobre
-Olá, sou o Juninho Carvalho. Adoro desafios, pois me proporcionam o meu  crescimento profissional. E a busca por conhecimento é algo que busco todos os dias, pois é isso que me move. Atualmente, venho me aprofundando no desenvolvimento Full Stack com HTML, CSS, JavaScript, React Js, Python e Mysql.  Meu objetivo é aprender a criar aplicações otimizadas e com escalabilidade. Além disso, hospedar essas aplicações em Cloud utilizando as ideias propostas na cultura DevOps. Esse repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
+Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
   
 ## Hard Skills
+
+ ### OS's
+ <div style="display: inline_block"<><br>
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />            
+ </div>
+
+ ### Infra/Devops
+ <div style="display: inline_block"<><br>
+   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg""/> 
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />      
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />               
+ </div>
 
 ### Devenvolvimento
 <div style="display: inline_block"><br>
@@ -22,19 +37,17 @@ Olá, sou o Juninho Carvalho. Adoro desafios, pois me proporcionam o meu  cresci
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
- ### Infra/Devops
- <div style="display: inline_block"<><br>
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />      
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />    
-            
+ ## Contatos
+  <div style="display: inline_block"<><br>
+
+  <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
+    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </a>
  </div>
  
- <!--
+<!--
  ![Snake animation](https://github.com/jacivaldocarvalho/jacivaldocarvalho/blob/output/github-contribution-grid-snake.svg)
+
  
 
 **jacivaldocarvalho/jacivaldocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
