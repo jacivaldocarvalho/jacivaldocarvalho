@@ -13,46 +13,46 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
 
  ### OS's
  <div style="display: inline_block"<><br>
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />            
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />            
  </div>
 
  ### Infra/Devops
  <div style="display: inline_block"<><br>
-   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg""/> 
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />      
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />               
+   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg""/> 
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />      
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />               
  </div>
 
 ### Devenvolvimento
 <div style="display: inline_block"><br>
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
  ## Contatos
   <div style="display: inline_block"<><br>
 
   <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 
    <a href="mailto:jacivaldocarvalho@gmail.com" target="_blank">
-    <img width="40" height="30" src="https://github.com/user-attachments/assets/40b4ba5d-89cb-4b2c-8428-5a1c86c77c94" alt="Gmail"/>
+    <img width="45" height="40" src="https://github.com/user-attachments/assets/40b4ba5d-89cb-4b2c-8428-5a1c86c77c94" alt="Gmail"/>
   </a>
   
   <a href="https://api.whatsapp.com/send/?phone=5591983476145" target="_blank">
-    <img width="35" height="30" src="https://github.com/user-attachments/assets/4a185b4b-a0c1-45df-92e3-e48c27e5302c" alt="Whatsaap"/>
+    <img width="45" height="40" src="https://github.com/user-attachments/assets/4a185b4b-a0c1-45df-92e3-e48c27e5302c" alt="Whatsaap"/>
   </a>
 
   <a href="https://t.me/jacivaldocarvalho" target="_blank">
-    <img width="35" height="30" src="https://github.com/user-attachments/assets/08f7f689-3c30-424a-ae6d-a560e534bd8a" alt="Telegram"/>
+    <img width="45" height="40" src="https://github.com/user-attachments/assets/08f7f689-3c30-424a-ae6d-a560e534bd8a" alt="Telegram"/>
   </a>
 
  </div>
