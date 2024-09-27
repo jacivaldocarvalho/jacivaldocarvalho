@@ -6,18 +6,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"/>
 </div>
   
-## Sobre
+### 📂 SOBRE
 Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
   
-## Hard Skills
+### 📂 HARD SKILLS
 
- ### 💻 OS's
+ #### 💻 OS's
  <div style="display: inline_block"<><br>
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />            
  </div>
 
-### 🔧 Infraestrutura/Devops
+#### 🔧 Infraestrutura/Devops
  <div style="display: inline_block"<><br>
    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg""/> 
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -26,7 +26,7 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />               
  </div>
 
-### 👾Devenvolvimento
+#### 👾Devenvolvimento
 <div style="display: inline_block"><br>
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
@@ -36,7 +36,7 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
- ## Contatos
+ ### 📂 CONTATOS
   <div style="display: inline_block"<><br>
 
   <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
