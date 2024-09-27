@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Seja bem vindo! 👋 </h1>
+<h1 align="center"> Olá, Seja bem vindo! 👋☕ </h1>
 
 <div align="center">
   <a href="https://github.com/jacivaldocarvalho">
@@ -11,13 +11,13 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
   
 ## Hard Skills
 
- ### OS's
+ ### 💻 OS's
  <div style="display: inline_block"<><br>
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />            
  </div>
 
- ### Infra/Devops
+### 🔧 Infraestrutura/Devops
  <div style="display: inline_block"<><br>
    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg""/> 
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -26,7 +26,7 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />               
  </div>
 
-### Devenvolvimento
+### 👾Devenvolvimento
 <div style="display: inline_block"><br>
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
