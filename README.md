@@ -39,24 +39,25 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
  ### 📂 CONTATOS
   <div style="display: inline_block"<><br>
 
-  <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
-    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jacivaldocarvalho/">
+    <img width="50" height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 
    <a href="mailto:jacivaldocarvalho@gmail.com" target="_blank">
-    <img width="45" height="40" src="https://github.com/user-attachments/assets/40b4ba5d-89cb-4b2c-8428-5a1c86c77c94" alt="Gmail"/>
+    <img width="50" height="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  
+
+  <!--
   <a href="https://api.whatsapp.com/send/?phone=5591983476145" target="_blank">
-    <img width="45" height="40" src="https://github.com/user-attachments/assets/4a185b4b-a0c1-45df-92e3-e48c27e5302c" alt="Whatsaap"/>
+    <img width="50" height="40" src="https://skillicons.dev/icons?i=whatsaap" alt="Whatsaap"/>
   </a>
 
   <a href="https://t.me/jacivaldocarvalho" target="_blank">
-    <img width="45" height="40" src="https://github.com/user-attachments/assets/08f7f689-3c30-424a-ae6d-a560e534bd8a" alt="Telegram"/>
+    <img width="50" height="40" src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/>
   </a>
-
+  -->
  </div>
- 
+
 <!--
  ![Snake animation](https://github.com/jacivaldocarvalho/jacivaldocarvalho/blob/output/github-contribution-grid-snake.svg)
 
