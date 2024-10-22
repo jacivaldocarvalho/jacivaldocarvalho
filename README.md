@@ -6,10 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"/>
 </div>
   
-### 📂 SOBRE
-Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
-  
-### 📂 HARD SKILLS
+## 📋 SOBRE
+Olá, sou o Jacivaldo. Este repositório, possui projetos que utilizo como laboratório para manutenção e melhorias nos códigos das tecnologias que venho estudando.
+
+## 📈 HARD SKILLS
 
  #### 💻 OS's
  <div style="display: inline_block"<><br>
@@ -36,7 +36,7 @@ Olá, sou o Juninho Carvalho. Este repositório, possui projetos que utilizo com
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
- ### 📂 CONTATOS
+ ## 📬 NETWORKING
   <div style="display: inline_block"<><br>
 
   <a href="https://www.linkedin.com/in/jacivaldocarvalho/">
