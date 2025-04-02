@@ -60,25 +60,25 @@ Olá, sou o Jacivaldo! Este repositório serve como um **laboratório de aprendi
 
 ## 🌍 Vamos nos conectar?
 
-Sou apaixonado por **colaboração** e **aprendizado contínuo**. Se você está buscando alguém para trocar ideias, colaborar em projetos ou discutir sobre novas tecnologias, fique à vontade para me contatar!
+Gosto **colaboração** e **aprendizado contínuo**. Se você está buscando alguém para trocar ideias, colaborar em projetos ou discutir sobre novas tecnologias, fique à vontade para me contatar!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
     <img width="50" height="50" src="https://store-images.s-microsoft.com/image/apps.46485.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.df3dbdf7-e6b9-4d2a-a5ad-3b91e430d172" alt="LinkedIn" />
   </a>
-  <br />
-  <a href="https://wa.me/55919 93948849" target="_blank">
+
+  <a href="https://wa.me/5591993948849" target="_blank">
     <img width="50" height="50" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="WhatsApp" />
   </a>
-  <br />
+
   <a href="https://t.me/jacivaldocarvalho" target="_blank">
     <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="Telegram" />
   </a>
-  <br />
+
   <a href="mailto:jacivaldocarvalho@gmail.com" target="_blank">
     <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail" />
   </a>
-  <br />
+
   <a href="https://medium.com/@jacivaldocarvalho" target="_blank">
     <img width="50" height="50" src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png" alt="Medium" />
   </a>
