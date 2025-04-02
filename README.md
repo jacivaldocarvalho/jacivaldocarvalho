@@ -11,7 +11,7 @@
 
 ## 📋 Sobre
 
-Olá, sou o Jacivaldo! Este repositório serve como um **laboratório de aprendizado e evolução** para as tecnologias que venho explorando. Aqui, compartilho projetos em constante evolução e que me ajudam a aprimorar minhas habilidades em ** infraestrutura de TI, Telecomunicações, DevOps e desenvolvimento de software**. Sinta-se à vontade para explorar e me contactar!
+Olá, sou o Jacivaldo! Este repositório serve como um **laboratório de aprendizado e evolução** para as tecnologias que venho explorando. Aqui, compartilho projetos em constante evolução e que me ajudam a aprimorar minhas habilidades em **infraestrutura de TI, Telecomunicações, DevOps e desenvolvimento de software**. Sinta-se à vontade para explorar e me contactar!
 
 ## 💡 O que você vai encontrar aqui?
 
