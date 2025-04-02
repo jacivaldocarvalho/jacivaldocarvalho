@@ -36,7 +36,7 @@ Olá, sou o Jacivaldo! Este repositório serve como um **laboratório de aprendi
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" height="40" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" height="40" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" height="40" />
-  <img src="https://img.shields.io/badge/Zabbix-FF6600?logo=zabbix&logoColor=white" alt="Zabbix" height="50" />
+  <img src="https://img.shields.io/badge/Zabbix-FF6600?logo=zabbix&logoColor=white" alt="Zabbix" height="40" />
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" alt="Azure" height="40" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="40" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" alt="VirtualBox" height="40" />
