@@ -47,7 +47,7 @@ Olá, sou o Jacivaldo! Este repositório serve como um **laboratório de aprendi
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="40" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="40" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="50" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="40" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="40" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="40" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="40" />
