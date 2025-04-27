@@ -26,7 +26,7 @@
 - Cloud Data Engineer  
 - Cloud Engineer  
 - AI Engineer  
-- Cloud NOC Analyst  
+- NOC Analysts e Observabilidade (Cloud & On premise) 
 - Infraestrutura e Redes  
 - Engenharia de Telecomunicações  
 
