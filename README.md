@@ -13,7 +13,7 @@
 
 🎓 Engenheiro de Telecomunicações formado pela Universidade Federal do Pará (UFPA), com sólida experiência nas áreas de TI e Telecom. Atuei em empresas públicas e privadas em funções como analista de suporte, infraestrutura, redes (NOC) e telecomunicações, além de pesquisa acadêmica.
 
-💡 Experiência prática com domínio em sistemas Linux e Windows, gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos usando ferramentas como **Zabbix, Grafana, Splunk e Nagios**. Também possuo experiência com versionamento de código (**Git/GitHub**) e conhecimentos em **HTML, CSS, JavaScript, reactjs, Python e MySQL**.
+💡 Perfil técnico robusto, com domínio em sistemas Linux e Windows, gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos usando ferramentas como **Zabbix, Grafana, Splunk e Nagios**. Também possuo experiência com versionamento de código (**Git/GitHub**) e conhecimentos em **HTML, CSS, JavaScript, reactjs, Python e MySQL**.
 
 ⚙️ Entusiasta de automação e eficiência operacional, trabalho com scripts em **Python, Shell Script e PowerShell**, além de aplicar práticas de **Infrastructure as Code (IaC)**. Tenho vivência com os principais provedores de nuvem: **AWS, Microsoft Azure e Google Cloud Platform (GCP)**.
 
