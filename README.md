@@ -41,7 +41,7 @@
 - Conteúdos relacionados à **computação em nuvem**, com foco em Azure, AWS e GCP.
 - Boas práticas de **clean code**, performance e organização de projetos.
 
-## 📝 Meus Artigos
+## 💡 Insights e Artigos
 
 Aqui você vai encontrar alguns dos artigos que produzi sobre temas relacionados a **TI, DevOps, Cloud Computing e muito mais**. Caso tenha interesse em ler, clique no link abaixo:
 
