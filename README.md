@@ -41,6 +41,14 @@
 - Conteúdos relacionados à **computação em nuvem**, com foco em Azure, AWS e GCP.
 - Boas práticas de **clean code**, performance e organização de projetos.
 
+## 📝 Meus Artigos
+
+Aqui você vai encontrar alguns dos artigos que produzi sobre temas relacionados a **TI, DevOps, Cloud Computing e muito mais**. Caso tenha interesse em ler, clique no link abaixo:
+
+<a href="https://jacivaldocarvalho.github.io/meus-artigos-tech/" target="_blank">
+  <img src="https://img.shields.io/badge/Artigos-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Artigos" height="40" />
+</a>
+
 
 ## 🚀 Hard Skills
 
