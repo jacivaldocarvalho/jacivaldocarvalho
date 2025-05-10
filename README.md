@@ -13,7 +13,7 @@
 
 🎓 Engenheiro de Telecomunicações formado pela Universidade Federal do Pará (UFPA), com sólida experiência nas áreas de TI e Telecom. Atuei em empresas públicas e privadas em funções como analista de suporte, infraestrutura, redes (NOC) e telecomunicações, além de pesquisa acadêmica.
 
-💡 Tenho um perfil técnico robusto, com domínio em sistemas Linux e Windows, gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos usando ferramentas como **Zabbix, Grafana, Splunk e Nagios**. Também possuo experiência com versionamento de código (**Git/GitHub**) e conhecimentos em **HTML, CSS, JavaScript, Python e MySQL**.
+💡 Experiência prática com domínio em sistemas Linux e Windows, gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos usando ferramentas como **Zabbix, Grafana, Splunk e Nagios**. Também possuo experiência com versionamento de código (**Git/GitHub**) e conhecimentos em **HTML, CSS, JavaScript, reactjs, Python e MySQL**.
 
 ⚙️ Entusiasta de automação e eficiência operacional, trabalho com scripts em **Python, Shell Script e PowerShell**, além de aplicar práticas de **Infrastructure as Code (IaC)**. Tenho vivência com os principais provedores de nuvem: **AWS, Microsoft Azure e Google Cloud Platform (GCP)**.
 
@@ -75,6 +75,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="40" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" height="40" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" height="40" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="ReactJS" height="40" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" height="40" />
+</div>
+
+### ⚙️ Metodologias Ágeis
+<div align="left">
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white" alt="Scrum" height="40" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white" alt="Kanban" height="40" />
 </div>
 
 
