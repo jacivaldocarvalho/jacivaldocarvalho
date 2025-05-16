@@ -11,26 +11,28 @@
 
 ## 📋 Sobre
 
-🎓 Engenheiro de Telecomunicações formado pela Universidade Federal do Pará (UFPA), com sólida experiência nas áreas de TI e Telecom. Atuei em empresas públicas e privadas em funções como analista de suporte, infraestrutura, redes (NOC) e telecomunicações, além de pesquisa acadêmica.
+🎓 Engenheiro de Telecomunicações formado pela Universidade Federal do Pará (UFPA), com sólida experiência nas áreas de TI e Telecomunicações. Ao longo da minha carreira, atuei em empresas públicas e privadas, desempenhando funções como Analista de Suporte, Infraestrutura, NOC (Centro de Operações de Rede) e Telecomunicações. Também realizei pesquisas acadêmicas na área de Inteligência Artificial, com foco em algoritmos genéticos.
 
-💡 Perfil técnico robusto, com domínio em sistemas Linux e Windows, gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos usando ferramentas como **Zabbix, Grafana, Splunk e Nagios**. Também possuo experiência com versionamento de código (**Git/GitHub**) e conhecimentos em **HTML, CSS, JavaScript, reactjs, Python e MySQL**.
+💡 Perfil técnico robusto com amplo domínio em sistemas Linux e Windows, além de experiência em gerenciamento de redes, acesso remoto e monitoramento de ambientes críticos utilizando ferramentas como Zabbix, Grafana, Splunk e Nagios. Tenho também experiência com versionamento de código (Git/GitHub) e possuo sólidos conhecimentos em HTML, CSS, JavaScript, Python, MySQL e Desenvolvimento Web.
 
-⚙️ Entusiasta de automação e eficiência operacional, trabalho com scripts em **Python, Shell Script e PowerShell**, além de aplicar práticas de **Infrastructure as Code (IaC)**. Tenho vivência com os principais provedores de nuvem: **AWS, Microsoft Azure e Google Cloud Platform (GCP)**.
+⚙️ Desenvolvimento Web: Nos últimos anos, aprofundei-me em React para criação de interfaces de usuário dinâmicas e interativas. Com a combinação de Vite e TypeScript, consigo entregar aplicações web rápidas, escaláveis e com forte tipagem, facilitando a manutenção e a qualidade do código. Também sou familiarizado com testes de unidade e integração, além de integração com APIs RESTful.
 
-🚀 Forte capacidade de **resolução de problemas, gestão de incidentes, documentação técnica e trabalho em equipe**. Adoto metodologias ágeis (**Scrum, Kanban**) e sou adepto da **cultura DevOps**, sempre buscando integração, performance e melhoria contínua.
+🔧 Entusiasta de automação e eficiência operacional, trabalho com scripts em Python, Shell Script e PowerShell, além de aplicar práticas de Infrastructure as Code (IaC). Tenho vivência com os principais provedores de nuvem: AWS, Microsoft Azure e Google Cloud Platform (GCP).
+
+🚀 Forte capacidade de resolução de problemas, gestão de incidentes, documentação técnica e trabalho em equipe. Adoto metodologias ágeis (Scrum, Kanban) e sou adepto da cultura DevOps, sempre buscando integração, performance e melhoria contínua.
 
 🔍 Atualmente, estou em busca de oportunidades nas áreas de:
 
-- Cloud DevOps / SRE  
-- DevOps Engineer  
-- Cloud Data Engineer  
-- Cloud Engineer  
-- AI Engineer  
-- NOC Analysts e Observabilidade (Cloud & On premise) 
-- Infraestrutura e Redes  
-- Engenharia de Telecomunicações  
+Cloud DevOps / SRE
+DevOps Engineer
+Cloud Data Engineer
+Cloud Engineer
+AI Engineer
+NOC Analysts e Observabilidade (Cloud & On premise)
+Infraestrutura e Redes
+Engenharia de Telecom
 
-📈 Foco em inovação, escalabilidade e performance de soluções em nuvem.
+📈 Foco em inovação, escalabilidade e performance de soluções Telecomunicações e Cloud.
 
 
 ## 💡 O que você vai encontrar aqui?
@@ -101,27 +103,10 @@ Aqui você vai encontrar alguns dos artigos que produzi sobre temas relacionados
 - **Inteligência Artificial Generativa**, explorando soluções com **Azure AI, GPT-4 e DALL·E**.
 - **Práticas avançadas de SRE**: resiliência, tolerância a falhas e SLIs/SLOs.
 
-
-## 🌍 Vamos nos conectar?
-
-Gosto de **compartilhar conhecimento**, **colaborar em projetos abertos** e trocar ideias sobre tecnologia. Se quiser bater um papo, será um prazer!
-
 <h3>📬 Me encontre nas redes:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/5591993948849" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/jacivaldocarvalho" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:jacivaldocarvalho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://medium.com/@jacivaldocarvalho" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://jacivaldocarvalho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" height="40" />
   </a>
 </p>
