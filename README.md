@@ -197,6 +197,17 @@ Atualmente desenvolvo uma plataforma de **Cloud, Data Engineering e SRE em Azure
 
 🔗 [**Ver projeto no GitHub →**](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
 
+### 🤖 JC-KubeScale AI — Kubernetes-native AI Platform
+
+Desenvolvo também uma plataforma **Cloud Native para inferência, model serving e autoscaling de LLMs em Kubernetes**, aplicando conceitos de **AI Infrastructure, LLMOps, SRE, Observabilidade, GitOps e Automação**.
+
+🛠️ **Tecnologias:** Kubernetes · KServe · vLLM · FastAPI · Helm · Terraform · Argo CD · Prometheus · Grafana · Loki · OpenTelemetry · Python · Go
+
+🎯 **Foco:** operação escalável de LLMs, autoscaling baseado em métricas de inferência, observabilidade, resiliência e eficiência de infraestrutura para workloads de IA, explorando também aplicações em **Redes e Telecomunicações**, como automação de operações, análise de eventos e logs, troubleshooting e AIOps.
+
+📌 **Status:** projeto em desenvolvimento contínuo, evoluindo por fases desde a API e infraestrutura Kubernetes até model serving, autoscaling inteligente, observabilidade, segurança e práticas SRE.
+
+🔗 [**Ver projeto no GitHub →**](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
 
 
 ## 🔭 Atualmente estudando e desenvolvendo
