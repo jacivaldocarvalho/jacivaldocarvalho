@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%24+👋+Olá!+Sou+Jacivaldo+Carvalho;%24+Engenheiro+de+Telecomunicações;%24+DEVOPS/SRE+%26+Cloud+Architect;%24+Infra+como+Código+%26+Automação;%24+Redes+%26+Telecomunicações;%24+_&gt;_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%24+👋+Hi!+I'm+Jacivaldo+Carvalho;%24+Telecommunications+Engineer;%24+DEVOPS/SRE+%26+Cloud+Architect;%24+Infrastructure+as+Code+%26+Automation;%24+Networks+%26+Telecommunications;%24+_&gt;_" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <strong>Conectando Redes, Infraestrutura, Cloud, Software e Automação.</strong>
+  <strong>Connecting Networks, Infrastructure, Cloud, Software, and Automation.</strong>
 </p>
 
 <br>
@@ -13,37 +12,34 @@
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=jacivaldocarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
+    alt="GitHub Stats"
   />
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"
-    alt="Principais linguagens"
+    alt="Top Languages"
   />
 </div>
 
+## 👨‍💻 About Me
 
+🎓 I am a **Telecommunications Engineer graduated from the Federal University of Pará (UFPA)**, with professional experience in **IT Infrastructure, Networking, Telecommunications, Cloud, DevOps, Observability, Automation, and Software Development**.
 
-## 👨‍💻 Sobre mim
+Throughout my career, I have worked in both public and private-sector environments across **Infrastructure, NOC, Networking, Telecommunications, and IT Operations**, supporting critical environments that demand **availability, reliability, security, and performance**.
 
-🎓 Sou **Engenheiro de Telecomunicações formado pela Universidade Federal do Pará (UFPA)**, com experiência profissional em **Infraestrutura de TI, Redes, Telecomunicações, Cloud, DevOps, Observabilidade, Automação e Desenvolvimento de Software**.
+My professional journey has evolved from **network and infrastructure operations** to building and automating environments using **Cloud, DevOps, Infrastructure as Code, Observability, and Software Development**.
 
-Ao longo da carreira, atuei em ambientes públicos e privados, incluindo áreas de **Infraestrutura, NOC, Redes, Telecomunicações e Operações de TI**, trabalhando com ambientes críticos que exigem **disponibilidade, confiabilidade, segurança e desempenho**.
+> **My primary area of interest lies at the intersection of Infrastructure, Networking, Cloud, Software, Automation, and SRE.**
 
-Minha trajetória profissional evoluiu da operação de **redes e infraestrutura** para a construção e automação de ambientes utilizando **Cloud, DevOps, Infrastructure as Code, Observabilidade e Desenvolvimento de Software**.
+I have experience administering **Linux and Windows** environments, virtualization, networking, monitoring, troubleshooting, incident management, and operational process automation.
 
-> **Minha principal área de interesse está na interseção entre Infraestrutura, Redes, Cloud, Software, Automação e SRE.**
+I also develop solutions using **Python, JavaScript/TypeScript, React, RESTful APIs, Shell Scripting, and PowerShell**, integrating systems and automating processes to improve operational efficiency and reduce manual work.
 
-Tenho experiência com administração de ambientes **Linux e Windows**, virtualização, redes, monitoramento, troubleshooting, gestão de incidentes e automação de processos operacionais.
-
-Também desenvolvo soluções utilizando **Python, JavaScript/TypeScript, React, APIs RESTful, Shell Script e PowerShell**, integrando sistemas e automatizando processos para aumentar a eficiência operacional e reduzir atividades manuais.
-
-
-## 🚀 Principais competências
+## 🚀 Core Competencies
 
 ### ☁️ Cloud & DevOps
 
-Experiência e estudos contínuos em:
+Experience and continuous learning in:
 
 * AWS
 * Microsoft Azure
@@ -54,25 +50,25 @@ Experiência e estudos contínuos em:
 * Ansible
 * Infrastructure as Code (IaC)
 * CI/CD
-* Ambientes híbridos
-* Automação de provisionamento
-* Padronização de ambientes
+* Hybrid environments
+* Provisioning automation
+* Environment standardization
 
-### 🖥️ Infraestrutura & Sistemas
+### 🖥️ Infrastructure & Systems
 
-* Virtualização
-* Administração de servidores
+* Virtualization
+* Server administration
 * Troubleshooting
-* Análise de desempenho
-* Capacidade e disponibilidade
-* Alta disponibilidade
+* Performance analysis
+* Capacity and availability
+* High availability
 * Hardening
-* Automação operacional
+* Operational automation
 
-### 🌐 Redes & Telecomunicações
+### 🌐 Networking & Telecommunications
 
 * TCP/IP
-* Redes corporativas
+* Enterprise networks
 * FTTH
 * GPON
 * ONTs / ONUs
@@ -80,48 +76,47 @@ Experiência e estudos contínuos em:
 * Routing
 * Firewalls
 * VPN
-* Monitoramento de redes
-* Troubleshooting de infraestrutura
-* Operações de NOC
+* Network monitoring
+* Infrastructure troubleshooting
+* NOC operations
 
-### 📊 Observabilidade & SRE
+### 📊 Observability & SRE
 
-* Monitoramento de infraestrutura
-* Métricas e alertas
-* Análise orientada a dados
-* Disponibilidade e confiabilidade
+* Infrastructure monitoring
+* Metrics and alerting
+* Data-driven analysis
+* Availability and reliability
 * SLIs / SLOs
-* Resiliência
-* Gestão de incidentes
+* Resilience
+* Incident management
 
-### 🐍 Desenvolvimento & Automação
+### 🐍 Development & Automation
 
-
-* APIs RESTful
+* RESTful APIs
 * Bash
 * PowerShell
 * ETL
-* Integração entre sistemas
-* Automação de processos
+* Systems integration
+* Process automation
 
-### 🗄️ Dados
+### 🗄️ Data
 
 * ETL
-* Integração de dados
-* Data Pipelines
+* Data integration
+* Data pipelines
 * Dashboards
-* Automação de processos orientados a dados
+* Data-driven process automation
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-### 💻 Sistemas Operacionais
+### 💻 Operating Systems
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" height="40" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=microsoft&logoColor=white" alt="Windows" height="40" />
 </div>
 
-### ☁️ Cloud / DevOps / Infraestrutura
+### ☁️ Cloud / DevOps / Infrastructure
 
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" height="40" />
@@ -135,7 +130,7 @@ Experiência e estudos contínuos em:
   <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" alt="Proxmox" height="40" />
 </div>
 
-### 📈 Observabilidade
+### 📈 Observability
 
 <div align="left">
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" height="40" />
@@ -145,7 +140,7 @@ Experiência e estudos contínuos em:
   <img src="https://img.shields.io/badge/Nagios-272727?logo=nagios&logoColor=white" alt="Nagios" height="40" />
 </div>
 
-### 👾 Desenvolvimento & Automação
+### 👾 Development & Automation
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="40" />
@@ -157,115 +152,109 @@ Experiência e estudos contínuos em:
   <img src="https://img.shields.io/badge/PowerShell-2E2E2E?logo=powershell&logoColor=white" alt="PowerShell" height="40" />
 </div>
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="40" />
 </div>
 
+## 🔧 What Will You Find Here?
 
-## 🔧 O que você vai encontrar aqui?
-
-Este perfil reúne projetos, laboratórios, estudos e experimentos relacionados a:
+This profile brings together projects, labs, studies, and experiments related to:
 
 * ☁️ **Cloud Computing**
 * ⚙️ **DevOps & SRE**
 * 🏗️ **Infrastructure as Code**
-* 📊 **Observabilidade & Monitoramento**
-* 🌐 **Redes & Telecomunicações**
-* 🐍 **Python & Automação**
+* 📊 **Observability & Monitoring**
+* 🌐 **Networking & Telecommunications**
+* 🐍 **Python & Automation**
 * 🔄 **CI/CD**
-* 🔐 **Segurança de Infraestrutura**
-* 🗄️ **Dados & ETL**
-* 🤖 **Inteligência Artificial**
-* 🧩 **APIs & Integração de Sistemas**
+* 🔐 **Infrastructure Security**
+* 🗄️ **Data & ETL**
+* 🤖 **Artificial Intelligence**
+* 🧩 **APIs & Systems Integration**
 
-Meu objetivo é transformar conhecimento técnico em **projetos práticos, automatizados, documentados e reproduzíveis**.
+My goal is to turn technical knowledge into **practical, automated, documented, and reproducible projects**.
 
-## 🚀 Projeto em destaque
+## 🚀 Featured Projects
 
 ### ☁️ Azure SRE & Databricks Platform
 
-Atualmente desenvolvo uma plataforma de **Cloud, Data Engineering e SRE em Azure**, aplicando conceitos de **Infrastructure as Code, DevOps, CI/CD, Observabilidade, Segurança e Automação**.
+I am currently developing an **Azure Cloud, Data Engineering, and SRE platform**, applying concepts and practices involving **Infrastructure as Code, DevOps, CI/CD, Observability, Security, and Automation**.
 
-🛠️ **Tecnologias:** Azure · Terraform · Azure DevOps · Databricks · Kubernetes/AKS · Prometheus · Grafana · Python
+🛠️ **Technologies:** Azure · Terraform · Azure DevOps · Databricks · Kubernetes/AKS · Prometheus · Grafana · Python
 
-🎯 **Foco:** infraestrutura automatizada, pipelines de dados, observabilidade, confiabilidade e práticas SRE em uma arquitetura escalável e reproduzível.
+🎯 **Focus:** automated infrastructure, data pipelines, observability, reliability, and SRE practices within a scalable and reproducible architecture.
 
-📌 **Status:** projeto em desenvolvimento contínuo, evoluindo por fases desde a fundação da infraestrutura até dados, observabilidade, segurança e SRE.
+📌 **Status:** under continuous development, evolving in phases from the infrastructure foundation to data, observability, security, and SRE.
 
-🔗 [**Ver projeto no GitHub →**](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
+🔗 [**View Project on GitHub →**](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
 
 ### 🤖 JC-KubeScale AI — Kubernetes-native AI Platform
 
-Desenvolvo também uma plataforma **Cloud Native para inferência, model serving e autoscaling de LLMs em Kubernetes**, aplicando conceitos de **AI Infrastructure, LLMOps, SRE, Observabilidade, GitOps e Automação**.
+I am also developing a **Cloud Native platform for LLM inference, model serving, and autoscaling on Kubernetes**, applying concepts and practices involving **AI Infrastructure, LLMOps, SRE, Observability, GitOps, and Automation**.
 
-🛠️ **Tecnologias:** Kubernetes · KServe · vLLM · FastAPI · Helm · Terraform · Argo CD · Prometheus · Grafana · Loki · OpenTelemetry · Python · Go
+🛠️ **Technologies:** Kubernetes · KServe · vLLM · FastAPI · Helm · Terraform · Argo CD · Prometheus · Grafana · Loki · OpenTelemetry · Python · Go
 
-🎯 **Foco:** operação escalável de LLMs, autoscaling baseado em métricas de inferência, observabilidade, resiliência e eficiência de infraestrutura para workloads de IA, explorando também aplicações em **Redes e Telecomunicações**, como automação de operações, análise de eventos e logs, troubleshooting e AIOps.
+🎯 **Focus:** scalable LLM operations, autoscaling based on inference metrics, observability, resilience, and infrastructure efficiency for AI workloads, while also exploring applications in **Networking and Telecommunications**, including operations automation, event and log analysis, troubleshooting, and AIOps.
 
-📌 **Status:** projeto em desenvolvimento contínuo, evoluindo por fases desde a API e infraestrutura Kubernetes até model serving, autoscaling inteligente, observabilidade, segurança e práticas SRE.
+📌 **Status:** under continuous development, evolving in phases from the API and Kubernetes infrastructure to model serving, intelligent autoscaling, observability, security, and SRE practices.
 
-🔗 [**Ver projeto no GitHub →**](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
+🔗 [**View Project on GitHub →**](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
 
-
-## 🔭 Atualmente estudando e desenvolvendo
+## 🔭 Currently Learning & Building
 
 ### ☸️ Cloud Native & Kubernetes
 
-Aprofundamento em arquitetura de microsserviços, containers, Kubernetes, observabilidade e práticas Cloud Native.
+Deepening my knowledge of microservices architecture, containers, Kubernetes, observability, and Cloud Native practices.
 
-### 📈 SRE & Engenharia de Confiabilidade
+### 📈 SRE & Reliability Engineering
 
-Estudos sobre resiliência, tolerância a falhas, SLIs, SLOs, monitoramento, gestão de incidentes e melhoria contínua da confiabilidade.
+Studying resilience, fault tolerance, SLIs, SLOs, monitoring, incident management, and continuous reliability improvement.
 
-### ☁️ Arquitetura de Cloud
+### ☁️ Cloud Architecture
 
-Arquitetura, automação, segurança, monitoramento e CI/CD utilizando **AWS, Azure e GCP**.
+Architecture, automation, security, monitoring, and CI/CD using **AWS, Azure, and GCP**.
 
-### 🤖 Inteligência Artificial
+### 🤖 Artificial Intelligence
 
-Exploração de **Inteligência Artificial Generativa**, LLMs e aplicações de IA voltadas para automação, desenvolvimento e operações de TI.
+Exploring **Generative Artificial Intelligence**, LLMs, and AI applications for automation, software development, and IT operations.
 
 ### 🏗️ Platform Engineering
 
-Estudos sobre Infrastructure as Code, automação de provisionamento, padronização de ambientes e construção de plataformas escaláveis e confiáveis.
+Studying Infrastructure as Code, provisioning automation, environment standardization, and the development of scalable and reliable platforms.
 
+## 💡 Insights & Articles
 
-## 💡 Insights & Artigos
-
-Também produzo conteúdos técnicos sobre **Infraestrutura, Cloud, DevOps, Telecomunicações, Observabilidade, Automação e Tecnologia**.
+I also create technical content on **Infrastructure, Cloud, DevOps, Telecommunications, Observability, Automation, and Technology**.
 
 <a href="https://insights.jacivaldocarvalho.com" target="_blank">
-  <img src="https://img.shields.io/badge/_Meus_Insights-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Artigos" height="40" />
+  <img src="https://img.shields.io/badge/_My_Insights-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Articles" height="40" />
 </a>
 
+## 🎯 Professional Focus
 
-## 🎯 Foco profissional
+My professional work and interests are primarily focused on:
 
-Minha atuação e meus interesses profissionais estão principalmente direcionados para:
+**Cloud & DevOps · SRE · Cloud Infrastructure · Platform Engineering · Observability · Infrastructure Automation · Network Engineering · Telecommunications · AI**
 
-**Cloud & DevOps · SRE · Infraestrutura Cloud · Platform Engineering · Observabilidade · Automação de Infraestrutura · Engenharia de Redes · Telecomunicações · IA**
+My background in **Telecommunications and Networking** complements my experience in Cloud and Infrastructure, providing me with a broad perspective across the technology stack — from **connectivity and infrastructure to systems, automation, applications, and observability**.
 
-Meu background em **Telecomunicações e Redes** complementa minha experiência em Cloud e Infraestrutura, proporcionando uma visão ampla da cadeia tecnológica — desde **conectividade e infraestrutura até sistemas, automação, aplicações e observabilidade**.
+## 🧠 How I Work
 
+> **Build. Automate. Observe. Improve.**
 
-## 🧠 Minha forma de trabalhar
+I believe in solutions that are:
 
-> **Construir. Automatizar. Observar. Melhorar.**
+* ⚙️ **Automated**, reducing manual and repetitive work
+* 📊 **Observable**, enabling easier troubleshooting and decision-making
+* 📈 **Scalable**, adapting to evolving business needs
+* 🛡️ **Resilient**, designed to handle failures
+* 🔐 **Secure**, incorporating security from the architecture stage
+* 📚 **Documented**, making collaboration and maintenance easier
 
-Acredito em soluções que sejam:
-
-* ⚙️ **Automatizadas**, reduzindo atividades manuais e repetitivas
-* 📊 **Observáveis**, facilitando diagnóstico e tomada de decisão
-* 📈 **Escaláveis**, acompanhando as necessidades do negócio
-* 🛡️ **Resilientes**, preparadas para lidar com falhas
-* 🔐 **Seguras**, considerando segurança desde a arquitetura
-* 📚 **Documentadas**, facilitando colaboração e manutenção
-
-
-## 📬 Me encontre
+## 📬 Find Me
 
 <p align="left">
   <a href="https://jacivaldocarvalho.com" target="_blank">
@@ -275,14 +264,13 @@ Acredito em soluções que sejam:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40" />
   </a>
   <a href="mailto:jacivaldocarvalho@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="40" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
   <a href="https://linkedin.com/in/jacivaldocarvalho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
 </p>
 
-
 <p align="center">
-  <strong>Infraestrutura · Cloud · Redes · Software · Automação · IA</strong>
+  <strong>Infrastructure · Cloud · Networking · Software · Automation · AI</strong>
 </p>
