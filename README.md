@@ -67,10 +67,10 @@ Python toolkit for **network health checks and diagnostics**, connecting **Telec
 
 ### ☁️ Azure SRE & Databricks Platform
 
-Azure-native SRE and platform engineering project. Demonstrates Infrastructure as Code with Terraform, a data pipeline with PySpark and Delta Lake, zero-secret authentication, SLO-driven observability, and AI integration with fallback strategy.
+Azure-native platform delivered in 10 phases: modular Terraform, data pipeline with PySpark and Delta Lake, FastAPI on Kubernetes, SLO-driven observability, zero-secret security, AI integration with fallback, and tested disaster recovery. Fully documented with 10 ADRs.
 
-**Stack:** Azure · Terraform · Databricks · PySpark · Delta Lake · Application
-Insights · Python · Key Vault
+**Stack:** Azure · Terraform · Databricks · Kubernetes · Kind · PySpark ·
+Delta Lake · FastAPI · Prometheus · Grafana · Key Vault
 
 🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
 
