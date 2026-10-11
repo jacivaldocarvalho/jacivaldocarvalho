@@ -11,11 +11,6 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-stats-extended.vercel.app/api?username=jacivaldocarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"
     alt="Top Languages"
   />
