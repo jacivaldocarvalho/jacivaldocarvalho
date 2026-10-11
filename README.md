@@ -58,7 +58,7 @@ I build solutions and labs focused on **reliability, automation, reproducibility
 
 ### 🌐 JC SRE NetProbe
 
-Python toolkit for **network health checks and diagnostics**, connecting **Telecommunications, Networking, DevOps, and SRE** practices.
+Python CLI for IP network and service health checks, featuring YAML-based bulk checks, concurrent execution, and JSON output for Networking, Telecom, DevOps, and SRE.
 
 **Features:** TCP · DNS · HTTP/HTTPS · IPv4/IPv6 · CLI · JSON output · Python API
 **Engineering:** PyPI · GitHub Actions · Ruff · Mypy · Pytest · Coverage · OIDC
