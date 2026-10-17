@@ -23,18 +23,20 @@
   />
 </div>
 
+
 ## About Me
 
-Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, with a background in **network engineering, telecommunications, IT infrastructure, and software development**.
+Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, and registered with **CONFEA/CREA-PA**, with **5+ years of experience** in IT and telecommunications infrastructure, network operations, monitoring, and automation.
 
-My experience spans **network operations, infrastructure monitoring, troubleshooting, cloud environments, and automation**, connecting traditional networking with modern **DevOps, SRE, and Cloud Native practices**.
+My background combines **Networking, Telecommunications, and critical infrastructure operations** with modern **DevOps, SRE, Cloud Native, and Infrastructure as Code** practices.
 
-Focused on building **reliable, observable, secure, and scalable infrastructure**, while exploring AI-driven operations and intelligent network automation.
+Focused on building **reliable, observable, and resilient systems**, while exploring AI Infrastructure and intelligent automation.
+
 
 ## Core Technologies
 
 **Networking & Telecommunications**  
-`TCP/IP` · `Routing` · `Switching` · `DNS` · `VPN` · `Firewalls` · `Network Monitoring` · `NOC`
+`TCP/IP` · `Routing` · `Switching` · `VLANs` · `DNS` · `VPN` · `Firewalls` · `Fiber Optics` · `VoIP` · `NetBox` · `Cisco` · `MikroTik` · `Datacom`
 
 **Cloud & Infrastructure**  
 `AWS` · `Azure` · `GCP` · `Linux` · `Terraform` · `Ansible`
