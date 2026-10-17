@@ -1,10 +1,11 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Jacivaldo+Carvalho&disable_animations=true"
-    alt="Hi, I'm Jacivaldo Carvalho"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=%24+Hi%2C+I'm+Jacivaldo+Carvalho&repeat=false"
+    alt="$ Hi, I'm Jacivaldo Carvalho"
   />
 </h1>
+
 
 <p align="center">
   <strong>Telecommunications Engineer | Networking · DevOps · SRE · Cloud · AI Infrastructure</strong>
