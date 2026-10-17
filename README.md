@@ -1,108 +1,101 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%24+👋+Hi!+I'm+Jacivaldo+Carvalho;%24+Telecommunications+Engineer;%24+DevOps+%7C+SRE+%7C+Cloud;%24+Networks+%26+Automation;%24+_&gt;_" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Jacivaldo+Carvalho&disable_animations=true"
+    alt="Hi, I'm Jacivaldo Carvalho"
+  />
 </h1>
 
 <p align="center">
-  <strong>Connecting Networks, Infrastructure, Cloud, Software, and Automation.</strong>
+  <strong>Telecommunications Engineer | Networking · DevOps · SRE · Cloud · AI Infrastructure</strong>
 </p>
 
-<br>
+<p align="center">
+  <strong>Connecting Networks, Cloud, Software, Automation, and AI.</strong>
+</p>
 
 <div align="center">
   <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=10&theme=dark"
-    alt="Top Languages"
+    height="150"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=6&theme=dark"
+    alt="Most Used Languages"
   />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **Telecommunications Engineer — Federal University of Pará (UFPA)** with experience across **IT Infrastructure, Networking, Telecommunications, Cloud, DevOps, SRE, Observability, Automation, Software Development, and AI Infrastructure**.
+Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, with a background in **network engineering, telecommunications, IT infrastructure, and software development**.
 
-My background combines traditional infrastructure and network engineering with modern **Cloud Native, Infrastructure as Code, CI/CD, automation, observability, and Artificial Intelligence** practices.
+My experience spans **network operations, infrastructure monitoring, troubleshooting, cloud environments, and automation**, connecting traditional networking with modern **DevOps, SRE, and Cloud Native practices**.
 
-I build solutions and labs focused on **reliability, automation, reproducibility, operational efficiency, and the application of AI to infrastructure and IT operations**.
+Focused on building **reliable, observable, secure, and scalable infrastructure**, while exploring AI-driven operations and intelligent network automation.
 
-> **Infrastructure · Networking · Cloud · DevOps · SRE · Automation · AI**
+## Core Technologies
 
-## 🚀 Core Stack
+**Networking & Telecommunications**  
+`TCP/IP` · `Routing` · `Switching` · `DNS` · `VPN` · `Firewalls` · `Network Monitoring` · `NOC`
 
-### ☁️ Cloud & Infrastructure
+**Cloud & Infrastructure**  
+`AWS` · `Azure` · `GCP` · `Linux` · `Terraform` · `Ansible`
 
-`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `Terraform` · `Ansible` · `Infrastructure as Code` · `CI/CD`
+**DevOps & Cloud Native**  
+`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions` · `Helm`
 
-### 📊 Observability & SRE
+**Observability & Reliability**  
+`Prometheus` · `Grafana` · `Zabbix` · `Monitoring` · `SRE`
 
-`Prometheus` · `Grafana` · `Zabbix` · `Splunk` · `Monitoring` · `SLIs/SLOs` · `Incident Management` · `Reliability`
+**Development & Automation**  
+`Python` · `Bash/Shell` · `REST APIs` · `Network Automation`
 
-### 👨‍💻 Development & Automation
+## Featured Projects
 
-`Python` · `React` · `Shell script` · `PowerShell` · `REST APIs` · `Systems Integration`
+### [JC SRE NetProbe](https://github.com/jacivaldocarvalho/jc-sre-netprobe)
 
-### 🤖 AI & AI Infrastructure
+Python-based network and service diagnostics toolkit designed for **Networking, Telecommunications, DevOps, and SRE**.
 
-`Generative AI` · `LLMs` · `LLMOps` · `vLLM` · `KServe` · `AI Infrastructure` · `AIOps`
+- Concurrent TCP, DNS, HTTP/HTTPS, and IPv4/IPv6 checks.
+- CLI, Python API, YAML configuration, and JSON output.
+- Published on PyPI with automated testing and CI/CD.
 
-### 🌐 Networking & Telecommunications
+**Stack:** Python · Networking · Pytest · Ruff · Mypy · GitHub Actions · PyPI
 
-`TCP/IP` · `Routing` · `Switching` · `Firewalls` · `VPN` · `FTTH` · `GPON` · `NOC` · `Network Monitoring`
+### [JC-KubeScale AI](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
 
+Kubernetes-native **AI Infrastructure lab** exploring inference operations, autoscaling, observability, and distributed systems.
 
-## 🚀 Featured Projects
+- Mock inference API and ConfigMap-backed model registry.
+- KEDA autoscaling and Prometheus/Grafana monitoring.
+- Experimental canary rollout controller.
 
-### 🌐 JC SRE NetProbe
+**Stack:** Kubernetes · Python · FastAPI · Helm · KEDA · Prometheus · Grafana
 
-Python CLI for IP network and service health checks, featuring YAML-based bulk checks, concurrent execution, and JSON output for Networking, Telecom, DevOps, and SRE.
+### [Azure SRE & Databricks Platform](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
 
-**Features:** TCP · DNS · HTTP/HTTPS · IPv4/IPv6 · CLI · JSON output · Python API
-**Engineering:** PyPI · GitHub Actions · Ruff · Mypy · Pytest · Coverage · OIDC
+Cloud engineering project combining **Infrastructure as Code, cloud networking, data engineering, and reliability**.
 
-🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-sre-netprobe)
+- Modular Terraform infrastructure and PySpark/Delta Lake pipelines.
+- Kubernetes-based API and SLO-driven observability.
+- AI integration with fallback, security, and disaster recovery.
 
+**Stack:** Azure · Terraform · Databricks · Kubernetes · PySpark · FastAPI · Prometheus
 
-### 🤖 JC-KubeScale AI
+## Currently Exploring
 
-Kubernetes-native **AI operations lab** exploring inference APIs, model version management, metrics-driven autoscaling, observability, and progressive rollout control.
+**Network Automation · Platform Engineering · AI Infrastructure · LLMOps · AIOps**
 
-The project connects **AI Infrastructure, Cloud Native, LLMOps, SRE, Networking, and Telecommunications**, providing a foundation for operational experiments, troubleshooting, and future AIOps applications.
+Exploring the convergence of **Networking, Telecommunications, Cloud Native, and Artificial Intelligence** to build intelligent, automated, and reliable infrastructure.
 
-**Implemented:** FastAPI with mock inference · ConfigMap-backed Model Registry · KEDA autoscaling · Prometheus/Grafana observability · Background Canary Controller using Deployment annotations.
+## Insights & Articles
 
-**Next:** Local GitOps with Argo CD, CPU-based model inference, and k6 load testing.
+I share technical insights on **Networking, Telecommunications, Cloud, DevOps, SRE, Observability, Automation, and AI Infrastructure**.
 
-**Stack:** Kubernetes · Kind · Python · FastAPI · Docker · Helm · KEDA · Prometheus · Grafana · Loki · OpenTelemetry · GitHub Actions
+[Read my technical articles →](https://insights.jacivaldocarvalho.com/)
 
-🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
+## Connect
 
-### ☁️ Azure SRE & Databricks Platform
+[Website](https://jacivaldocarvalho.com/) · [LinkedIn](https://linkedin.com/in/jacivaldocarvalho)
 
-Azure-native platform delivered in 10 phases: modular Terraform, data pipeline with PySpark and Delta Lake, FastAPI on Kubernetes, SLO-driven observability, zero-secret security, AI integration with fallback, and tested disaster recovery. Fully documented with 10 ADRs.
-
-**Stack:** Azure · Terraform · Databricks · Kubernetes · Kind · PySpark ·
-Delta Lake · FastAPI · Prometheus · Grafana · Key Vault
-
-🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
-
-## 🔭 Current Focus
-
-**Cloud Native · Kubernetes · SRE · Platform Engineering · Infrastructure as Code · AI Infrastructure · LLMOps · AIOps · Network Automation**
-
-Building practical projects at the intersection of **Telecommunications, Networking, Cloud, DevOps, SRE, Software, Automation, and Artificial Intelligence**.
-
-
-## 💡 Insights & Articles
-
-I write about **Infrastructure, Cloud, DevOps, SRE, Telecommunications, Observability, Automation, and AI**.
-
-[Read my technical articles →](https://insights.jacivaldocarvalho.com)
-
-## 📬 Find Me
-
-🔗 [Website](https://jacivaldocarvalho.com) · [LinkedIn](https://linkedin.com/in/jacivaldocarvalho) · [Email](mailto:jacivaldocarvalho@email.com)
-
-
-<br>
+---
 
 <p align="center">
   <strong>Build. Automate. Observe. Improve.</strong>
