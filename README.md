@@ -60,6 +60,21 @@ Python CLI for IP network and service health checks, featuring YAML-based bulk c
 
 🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-sre-netprobe)
 
+
+### 🤖 JC-KubeScale AI
+
+Kubernetes-native **AI operations lab** exploring inference APIs, model version management, metrics-driven autoscaling, observability, and progressive rollout control.
+
+The project connects **AI Infrastructure, Cloud Native, LLMOps, SRE, Networking, and Telecommunications**, providing a foundation for operational experiments, troubleshooting, and future AIOps applications.
+
+**Implemented:** FastAPI with mock inference · ConfigMap-backed Model Registry · KEDA autoscaling · Prometheus/Grafana observability · Background Canary Controller using Deployment annotations.
+
+**Next:** Local GitOps with Argo CD, CPU-based model inference, and k6 load testing.
+
+**Stack:** Kubernetes · Kind · Python · FastAPI · Docker · Helm · KEDA · Prometheus · Grafana · Loki · OpenTelemetry · GitHub Actions
+
+🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
+
 ### ☁️ Azure SRE & Databricks Platform
 
 Azure-native platform delivered in 10 phases: modular Terraform, data pipeline with PySpark and Delta Lake, FastAPI on Kubernetes, SLO-driven observability, zero-secret security, AI integration with fallback, and tested disaster recovery. Fully documented with 10 ADRs.
@@ -68,16 +83,6 @@ Azure-native platform delivered in 10 phases: modular Terraform, data pipeline w
 Delta Lake · FastAPI · Prometheus · Grafana · Key Vault
 
 🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
-
-### 🤖 JC-KubeScale AI
-
-Kubernetes-native **AI Infrastructure platform** for LLM inference, model serving, intelligent autoscaling, observability, GitOps, and SRE.
-
-The project explores the intersection of **Artificial Intelligence, Cloud Native, SRE, Networking, and Telecommunications**, including applications for operations automation, troubleshooting, event and log analysis, and AIOps.
-
-**Stack:** Kubernetes · KServe · vLLM · FastAPI · Helm · Terraform · Argo CD · Prometheus · Grafana · OpenTelemetry
-
-🔗 [View Project →](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
 
 ## 🔭 Current Focus
 
