@@ -26,7 +26,7 @@
 
 ## About Me
 
-Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, and registered with **CONFEA/CREA-PA**, with **5+ years of experience** in IT and telecommunications infrastructure, network operations, monitoring, and automation.
+Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, with **5+ years of experience** in IT and telecommunications infrastructure, network operations, monitoring, and automation.
 
 My background combines **Networking, Telecommunications, and critical infrastructure operations** with modern **DevOps, SRE, Cloud Native, and Infrastructure as Code** practices.
 
