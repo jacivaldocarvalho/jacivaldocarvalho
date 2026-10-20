@@ -91,12 +91,6 @@ Kubernetes-native **AI Infrastructure lab** exploring inference operations, auto
 
 Exploring the convergence of **Networking, Telecommunications, Cloud Native, and Artificial Intelligence** to build intelligent, automated, and reliable infrastructure.
 
-## Insights & Articles
-
-I share technical insights on **Networking, Telecommunications, Cloud, DevOps, SRE, Observability, Automation, and AI Infrastructure**.
-
-[Read my technical articles →](https://insights.jacivaldocarvalho.com/)
-
 ## Connect
 
 [Website](https://jacivaldocarvalho.com/) · [LinkedIn](https://linkedin.com/in/jacivaldocarvalho)
