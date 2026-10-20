@@ -52,6 +52,17 @@ Focused on building **reliable, observable, and resilient systems**, while explo
 
 ## Featured Projects
 
+### [Init Flow](https://github.com/jacivaldocarvalho/init-flow)
+
+Open-source Bash CLI designed to automate and standardize project initialization workflows for **Software Development, Linux, DevOps, and Automation**.
+
+- Automated local project creation, Git initialization, and public GitHub repository setup.
+- GitHub CLI integration, automatic remote configuration, and Visual Studio Code integration.
+- Safe installation/uninstallation, 30 automated tests, ShellCheck validation, and GitHub Actions CI/CD.
+- First official release: **v0.1.0**, available under the MIT License.
+
+**Stack:** Bash · Linux · Git · GitHub CLI · ShellCheck · GitHub Actions · Visual Studio Code
+
 ### [JC SRE NetProbe](https://github.com/jacivaldocarvalho/jc-sre-netprobe)
 
 Python-based network and service diagnostics toolkit designed for **Networking, Telecommunications, DevOps, and SRE**.
@@ -72,15 +83,7 @@ Kubernetes-native **AI Infrastructure lab** exploring inference operations, auto
 
 **Stack:** Kubernetes · Python · FastAPI · Helm · KEDA · Prometheus · Grafana
 
-### [Azure SRE & Databricks Platform](https://github.com/jacivaldocarvalho/jc-azure-sre-databricks-platform)
 
-Cloud engineering project combining **Infrastructure as Code, cloud networking, data engineering, and reliability**.
-
-- Modular Terraform infrastructure and PySpark/Delta Lake pipelines.
-- Kubernetes-based API and SLO-driven observability.
-- AI integration with fallback, security, and disaster recovery.
-
-**Stack:** Azure · Terraform · Databricks · Kubernetes · PySpark · FastAPI · Prometheus
 
 ## Currently Exploring
 
