@@ -52,6 +52,18 @@ Focused on building **reliable, observable, and resilient systems**, while explo
 
 ## Featured Projects
 
+### [JC SpeedTest](https://github.com/jacivaldocarvalho/jc-speedtest)
+
+Lightweight, programmatic internet speed test for Python designed for **Telecom Infrastructure, Networking, DevOps, and SRE**.
+
+- Native latency, download, and upload measurements via Cloudflare (no browser, no ads).
+- Optional `speedtest-cli` integration for industry-standard server selection.
+- JSON output for automation and granular timeouts to prevent false positives.
+- Immutable, typed result objects with CLI and Python API support.
+- Published on PyPI with automated testing (96% coverage) and CI/CD.
+
+**Stack:** Python · httpx · Networking · Pytest · Ruff · Mypy · GitHub Actions · PyPI
+
 ### [Init Flow](https://github.com/jacivaldocarvalho/init-flow)
 
 Open-source Bash CLI designed to automate and standardize project initialization workflows for **Software Development, Linux, DevOps, and Automation**.
