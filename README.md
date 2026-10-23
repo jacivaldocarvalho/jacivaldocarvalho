@@ -116,7 +116,11 @@ Exploring the convergence of **Networking, Telecommunications, Cloud Native, and
 
 ## Connect
 
-[Website](https://jacivaldocarvalho.com/) · [LinkedIn](https://linkedin.com/in/jacivaldocarvalho)
+## Connect
+
+🌐 [Website](https://jacivaldocarvalho.com/) ·
+💼 [LinkedIn](https://linkedin.com/in/jacivaldocarvalho) ·
+📝 [DEV Community](https://dev.to/jacivaldocarvalho)
 
 ---
 
