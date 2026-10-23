@@ -52,6 +52,17 @@ Focused on building **reliable, observable, and resilient systems**, while explo
 
 ## Featured Projects
 
+### [JC Translate Peek](https://github.com/jacivaldocarvalho/jc-translate-peek)
+
+Open-source VS Code extension designed to translate selected text without leaving the editor, built with **TypeScript, Google Translate, and OpenRouter AI**.
+
+- Instant translations in a side panel without modifying the source file.
+- Google Translate integration with automatic fallback to OpenRouter AI.
+- Secure API key storage, local translation caching, and configurable target languages.
+- GitHub Actions CI validation and technical documentation, available under the MIT License.
+
+Stack: TypeScript · Node.js · VS Code Extension API · Google Translate · OpenRouter AI · esbuild · GitHub Actions
+
 ### [JC SpeedTest](https://github.com/jacivaldocarvalho/jc-speedtest)
 
 Lightweight, programmatic internet speed test for Python designed for **Telecom Infrastructure, Networking, DevOps, and SRE**.
