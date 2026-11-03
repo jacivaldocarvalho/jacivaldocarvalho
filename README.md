@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <strong>Telecommunications Engineer | Networking · DevOps · SRE · Cloud · AI Infrastructure</strong>
+  <strong>Telecommunications Engineer | Networking | DevOps | SRE | Cloud | AI Infrastructure</strong>
 </p>
 
 <p align="center">
