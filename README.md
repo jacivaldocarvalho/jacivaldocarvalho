@@ -15,14 +15,6 @@
   <strong>Connecting Networks, Cloud, Software, Automation, and AI.</strong>
 </p>
 
-<div align="center">
-  <img
-    height="150"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jacivaldocarvalho&layout=compact&langs_count=6&theme=dark"
-    alt="Most Used Languages"
-  />
-</div>
-
 
 ## About Me
 
