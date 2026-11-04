@@ -1,10 +1,10 @@
-<p align="center">
-  <strong>Hi, I’m Jacivaldo Carvalho 👋👨‍💻</strong>
-</p>
+<h1 align="center">
+  <strong>~$ Hi, I’m Jacivaldo Carvalho 👋👨‍💻</strong>
+</h1>
 
 
 <p align="center">
-  Telecommunications Engineer | Networking | DevOps | SRE | Cloud | AI Infrastructure
+  Telecommunications Engineer | Networking | DevOps | SRE | Cloud | AI 
 </p>
 
 <p align="center">
