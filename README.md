@@ -45,7 +45,7 @@ I build and explore **reliable, observable, secure, and resilient systems**, wit
 
 ## Featured Projects
 
-### [InfraPulse](https://github.com/jacivaldocarvalho/jc-infrapulse)
+### [JC InfraPulse](https://github.com/jacivaldocarvalho/jc-infrapulse)
 
 Open-source **HTTP/HTTPS monitoring and observability platform** built to demonstrate production-oriented engineering practices across **Backend, DevOps, DevSecOps, SRE, and Cloud Native systems**.
 
