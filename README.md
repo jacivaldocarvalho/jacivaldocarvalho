@@ -16,10 +16,9 @@
 
 Telecommunications Engineer graduated from the **Federal University of Pará (UFPA), Brazil**, with **5+ years of experience** in IT and telecommunications infrastructure, network operations, monitoring, and automation.
 
-My background combines **Networking, Telecommunications, and critical infrastructure operations** with modern **DevOps, SRE, Cloud Native, and Infrastructure as Code** practices.
+My background combines **Networking, Telecommunications, and critical infrastructure operations** with modern **DevOps, DevSecOps, Site Reliability Engineering, Cloud Native, and Infrastructure as Code** practices.
 
-Focused on building **reliable, observable, and resilient systems**, while exploring AI Infrastructure and intelligent automation.
-
+I build and explore **reliable, observable, secure, and resilient systems**, with a growing focus on backend engineering, software supply chain security, AI Infrastructure, and intelligent automation.
 
 ## Core Technologies
 
@@ -30,15 +29,34 @@ Focused on building **reliable, observable, and resilient systems**, while explo
 `AWS` · `Azure` · `GCP` · `Linux` · `Terraform` · `Ansible`
 
 **DevOps & Cloud Native**  
-`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions` · `Helm`
+`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions` · `Helm` · `Infrastructure as Code`
+
+**DevSecOps & Software Supply Chain**  
+`DevSecOps` · `SBOM` · `Dependency Integrity` · `Container Security` · `Software Provenance` · `Security Automation`
 
 **Observability & Reliability**  
-`Prometheus` · `Grafana` · `Zabbix` · `Monitoring` · `SRE`
+`Prometheus` · `Grafana` · `OpenTelemetry` · `Tempo` · `Alertmanager` · `Zabbix` · `Distributed Tracing` · `SRE`
 
-**Development & Automation**  
-`Python` · `Bash/Shell` · `REST APIs` · `Network Automation`
+**Backend Development & Automation**  
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `REST APIs` · `AsyncIO` · `Bash/Shell` · `Network Automation`
+
+**Frontend & Testing**  
+`TypeScript` · `React` · `Vite` · `Pytest` · `Vitest` · `Playwright`
 
 ## Featured Projects
+
+### [InfraPulse](https://github.com/jacivaldocarvalho/jc-infrapulse)
+
+Open-source **HTTP/HTTPS monitoring and observability platform** built to demonstrate production-oriented engineering practices across **Backend, DevOps, DevSecOps, SRE, and Cloud Native systems**.
+
+- FastAPI backend with PostgreSQL, asynchronous monitoring worker, and React/TypeScript dashboard.
+- HTTP/HTTPS availability checks, historical metrics, service management, and monitoring visualizations.
+- Observability architecture integrating Prometheus, Grafana, OpenTelemetry Collector, Tempo, and Alertmanager.
+- GitHub Actions CI covering code quality, automated testing, integration tests, browser E2E tests, and container builds.
+- DevSecOps controls including dependency integrity, SBOM generation, software provenance, and security validation.
+- Documented architecture, operational procedures, security policies, and production-readiness limitations.
+
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Docker · GitHub Actions · Prometheus · Grafana · OpenTelemetry · Tempo · Playwright
 
 ### [JC Translate Peek](https://github.com/jacivaldocarvalho/jc-translate-peek)
 
@@ -49,7 +67,7 @@ Open-source VS Code extension designed to translate selected text without leavin
 - Secure API key storage, local translation caching, and configurable target languages.
 - GitHub Actions CI validation and technical documentation, available under the MIT License.
 
-Stack: TypeScript · Node.js · VS Code Extension API · Google Translate · OpenRouter AI · esbuild · GitHub Actions
+**Stack:** TypeScript · Node.js · VS Code Extension API · Google Translate · OpenRouter AI · esbuild · GitHub Actions
 
 ### [JC SpeedTest](https://github.com/jacivaldocarvalho/jc-speedtest)
 
@@ -94,24 +112,18 @@ Kubernetes-native **AI Infrastructure lab** exploring inference operations, auto
 
 **Stack:** Kubernetes · Python · FastAPI · Helm · KEDA · Prometheus · Grafana
 
-
-
 ## Currently Exploring
 
-**Network Automation · Platform Engineering · AI Infrastructure · LLMOps · AIOps**
+**Platform Engineering · Network Automation · AI Infrastructure · LLMOps · AIOps · Software Supply Chain Security**
 
-Exploring the convergence of **Networking, Telecommunications, Cloud Native, and Artificial Intelligence** to build intelligent, automated, and reliable infrastructure.
-
-## Connect
+Exploring the convergence of **Networking, Telecommunications, Cloud Native, Software Engineering, and Artificial Intelligence** to build intelligent, automated, secure, and reliable infrastructure.
 
 ## Connect
 
-🌐 [Website](https://jacivaldocarvalho.com/) ·
-💼 [LinkedIn](https://linkedin.com/in/jacivaldocarvalho) ·
-📝 [DEV Community](https://dev.to/jacivaldocarvalho)
+🌐 [Website](https://jacivaldocarvalho.com/) · 💼 [LinkedIn](https://linkedin.com/in/jacivaldocarvalho) · 📝 [DEV Community](https://dev.to/jacivaldocarvalho)
 
 ---
 
 <p align="center">
-  <strong>Build. Automate. Observe. Improve.</strong>
+  **Build. Automate. Observe. Improve.**
 </p>
