@@ -58,6 +58,16 @@ Open-source **HTTP/HTTPS monitoring and observability platform** built to demons
 
 **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Docker · GitHub Actions · Prometheus · Grafana · OpenTelemetry · Tempo · Playwright
 
+### [JC-KubeScale AI](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
+
+Kubernetes-native **AI Infrastructure lab** exploring inference operations, autoscaling, observability, and distributed systems.
+
+- Mock inference API and ConfigMap-backed model registry.
+- KEDA autoscaling and Prometheus/Grafana monitoring.
+- Experimental canary rollout controller.
+
+**Stack:** Kubernetes · Python · FastAPI · Helm · KEDA · Prometheus · Grafana
+
 ### [JC Translate Peek](https://github.com/jacivaldocarvalho/jc-translate-peek)
 
 Open-source VS Code extension designed to translate selected text without leaving the editor, built with **TypeScript, Google Translate, and OpenRouter AI**.
@@ -102,15 +112,6 @@ Python-based network and service diagnostics toolkit designed for **Networking, 
 
 **Stack:** Python · Networking · Pytest · Ruff · Mypy · GitHub Actions · PyPI
 
-### [JC-KubeScale AI](https://github.com/jacivaldocarvalho/jc-kubescale-ai)
-
-Kubernetes-native **AI Infrastructure lab** exploring inference operations, autoscaling, observability, and distributed systems.
-
-- Mock inference API and ConfigMap-backed model registry.
-- KEDA autoscaling and Prometheus/Grafana monitoring.
-- Experimental canary rollout controller.
-
-**Stack:** Kubernetes · Python · FastAPI · Helm · KEDA · Prometheus · Grafana
 
 ## Currently Exploring
 
