@@ -73,14 +73,17 @@ Lightweight, programmatic internet speed test for Python designed for **Telecom 
 
 ### [Init Flow](https://github.com/jacivaldocarvalho/init-flow)
 
-Open-source Bash CLI designed to automate and standardize project initialization workflows for **Software Development, Linux, DevOps, and Automation**.
+Open-source Bash CLI designed to automate, standardize, and customize project initialization workflows for **Software Development, Linux, DevOps, and Automation**.
 
-- Automated local project creation, Git initialization, and public GitHub repository setup.
-- GitHub CLI integration, automatic remote configuration, and Visual Studio Code integration.
-- Safe installation/uninstallation, 30 automated tests, ShellCheck validation, and GitHub Actions CI/CD.
-- First official release: **v0.1.0**, available under the MIT License.
+- Automated local project creation, Git initialization, and public or private GitHub repository provisioning.
+- Seven customization options, including local-only mode, README generation, custom paths, repository descriptions, editor control, and dry-run.
+- GitHub CLI integration, automatic remote configuration, and optional Visual Studio Code integration.
+- Secure installation/uninstallation, input validation, error handling, and conditional dependency management.
+- 58 automated tests, ShellCheck validation, and continuous integration with GitHub Actions.
+- Technical documentation, Mermaid diagrams, and reproducible terminal demonstrations with VHS.
+- Latest release: **[v0.2.0 — Configuration and Customization](https://github.com/jacivaldocarvalho/init-flow/releases/tag/v0.2.0)**, available under the MIT License.
 
-**Stack:** Bash · Linux · Git · GitHub CLI · ShellCheck · GitHub Actions · Visual Studio Code
+**Stack:** Bash · Linux · Git · GitHub CLI · GitHub API · ShellCheck · GitHub Actions · Visual Studio Code · Mermaid · VHS
 
 ### [JC SRE NetProbe](https://github.com/jacivaldocarvalho/jc-sre-netprobe)
 
