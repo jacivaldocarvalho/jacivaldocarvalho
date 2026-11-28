@@ -126,5 +126,5 @@ Exploring the convergence of **Networking, Telecommunications, Cloud Native, Sof
 ---
 
 <p align="center">
-  **Build. Automate. Observe. Improve.**
+  Build. Automate. Observe. Improve.
 </p>
