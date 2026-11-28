@@ -58,6 +58,19 @@ Open-source **HTTP/HTTPS monitoring and observability platform** built to demons
 
 **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Docker · GitHub Actions · Prometheus · Grafana · OpenTelemetry · Tempo · Playwright
 
+### [JC ETLForge](https://github.com/jacivaldocarvalho/jc-etlforge)
+
+Open-source **minimalist ETL framework** built to demonstrate production-oriented engineering practices across **Backend, Data Engineering, DevOps, and Python packaging**.
+
+- Declarative YAML/JSON pipelines wiring `Source → Transformer… → Sink`, with built-in JSON, CSV, and fixed-width (positional) components.
+- Pluggable execution engines: sequential, `ThreadPoolExecutor`, and `ProcessPoolExecutor`, with per-record retry and exponential backoff.
+- Entry-point plugin system so third parties ship transformers as `pip install` packages — no forks required.
+- First-class CLI (`run`, `validate`, `plugins list`) with stable exit codes for CI and scripts.
+- GitHub Actions CI covering lint, tests on Python 3.10–3.12, build, and `twine check`; trusted publishing to PyPI with signed provenance.
+- Documented architecture (ADRs 0001–0005), public API reference, and a working example plugin package (`TitleCaseTransformer`, `CastTransformer`).
+
+**Stack:** Python · Click · PyYAML · concurrent.futures · importlib.metadata · pytest · ruff · GitHub Actions · PyPI (trusted publishing) · Mermaid
+
 
 ### [JC SpeedTest](https://github.com/jacivaldocarvalho/jc-speedtest)
 
