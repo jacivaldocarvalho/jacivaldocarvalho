@@ -108,6 +108,10 @@ Python-based network and service diagnostics toolkit designed for **Networking, 
 
 **Stack:** Python · Networking · Pytest · Ruff · Mypy · GitHub Actions · PyPI
 
+## Articles
+
+### [JC Articles](https://github.com/jacivaldocarvalho/jc-articles)
+I share my articles on backend engineering, software architecture, infrastructure, networking, automation, and related topics here. I write in Portuguese and English about technical decisions, experiences, and lessons learned from the projects I develop.
 
 ## Currently Exploring
 
